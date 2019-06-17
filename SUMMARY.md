@@ -2,6 +2,7 @@
 
 * [Zweck und Zielpublikum](README.md)
 * [Begrifflichkeiten](begrifflichkeiten.md)
+* [Quellenangaben](quellenangaben.md)
 
 ## Überblick über die Kryptografie
 
