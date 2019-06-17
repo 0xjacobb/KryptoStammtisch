@@ -1,2 +1,0 @@
-# Elliptische Kurven \(ECC\)
-
