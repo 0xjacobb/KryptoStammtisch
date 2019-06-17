@@ -10,6 +10,10 @@ Ziel ist es eine "mittlere Flughöhe" betreffend technischer Tiefe zu erreichen.
 
 Es ist somit keine Zusammenfassung für Kryptografie Experten, sondern wie gesagt für technisch interessierte Personen.
 
+{% hint style="info" %}
+Es gibt keine Garantie zur Vollständigkeit oder Richtigkeit der Inhalte. Die Informationen wurden mit bestem Wissen und Gewissen zusammengetragen.
+{% endhint %}
+
 
 
 
