@@ -2,7 +2,7 @@
 
 Hier wird erklärt wie man mittels Elliptischen Kurven einen Punkt berechnen kann und schlussendliche eine sehr starke aber effiziente Einwegfunktion darstellt. 
 
-Zum Besipiel für die Berechnung von digitalen Signaturen \(Elliptic Curve Digital Signature Algorithm - ECDSA\) um wie in den vorherigen Kapitel beschrieben, das Problem der Echtheit des Senders zu gewährleisten. Digitale Signaturen werden später in im Kapitel [digitale Signaturen](../digitale-signaturen.md) beschrieben. 
+Zum Besipiel für die Berechnung von digitalen Signaturen \(Elliptic Curve Digital Signature Algorithm - ECDSA\) um wie in den vorherigen Kapitel beschrieben, das Problem der Echtheit des Senders zu gewährleisten. Digitale Signaturen werden später in im Kapitel [digitale Signaturen](../digitale-signaturen/) beschrieben. 
 
 {% hint style="info" %}
 Bei Bitcoin zum Beispiel wird die Elliptische Kurven Kryptografie \(ECC\) auch verwendet um aus dem Private Key den Public Key zu erstellen. Der Endpunkt den man nach der Berechnung erreicht ist der Public Key. Mehr dazu in späteren Kapiteln. 

@@ -4,7 +4,7 @@
 * [Begrifflichkeiten](begrifflichkeiten.md)
 * [Quellenangaben](quellenangaben.md)
 
-## Überblick über die Kryptografie
+## Überblick über die Kryptografie <a id="ueberblick-ueber-die-kryptografie-1"></a>
 
 * [Genereller Überblick](ueberblick-ueber-die-kryptografie-1/einfuehrung.md)
 * [Was zeichnet eine starke Verschlüsselung aus](ueberblick-ueber-die-kryptografie-1/was-zeichnet-eine-starke-verschluesselung-aus.md)
@@ -37,7 +37,9 @@
   * [Einführung](asymmetrische-kryptografie/elliptische-kurven-ecc/einfuehrung.md)
   * [Anwendung der Elliptischen Kurve Kryptografie](asymmetrische-kryptografie/elliptische-kurven-ecc/anwendung-der-elliptischen-kurve-kryptografie.md)
   * [Sicherheit](asymmetrische-kryptografie/elliptische-kurven-ecc/sicherheit.md)
-* [Digitale Signaturen](asymmetrische-kryptografie/digitale-signaturen.md)
+* [Digitale Signaturen](asymmetrische-kryptografie/digitale-signaturen/README.md)
+  * [Einführung](asymmetrische-kryptografie/digitale-signaturen/einfuehrung.md)
+  * [Funktionsprinzip](asymmetrische-kryptografie/digitale-signaturen/funktionsprinzip.md)
 * [Sicherheitsmechanismen](asymmetrische-kryptografie/sicherheitsmechanismen.md)
 
 ## Hash Funktionen
@@ -46,9 +48,4 @@
 * [Wie wird ein Hash gebildet](hash-funktionen/wie-wird-ein-hash-gebildet.md)
 * [Sicherheit](hash-funktionen/sicherheit.md)
 * [SHA-3 \(Keccak\)](hash-funktionen/sha-3-keccak.md)
-* [Untitled](hash-funktionen/untitled-1.md)
-
-## Diverses
-
-* [Untitled](diverses/untitled.md)
 
