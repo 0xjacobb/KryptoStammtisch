@@ -14,7 +14,7 @@ Teil man die 10 durch 3 \(mod = modulo, wird oft auch als % gekennzeichnet\), ge
 
 In der modernen Kryptografie werden natürlich viel grössere Zahlen \(Primzahlen\) und teilweise auch komplexere Berechnungen stattfinden, auf diese hier aber nicht näher eingegangen werden. 
 
-Wichtig ist nur zu verstehen, dass die modulare Arithmetik eine zentrale Rolle spielt.
+Wichtig ist nur zu verstehen, dass die modulare Arithmetik eine zentrale Rolle spielt und man diese bei Interesse recherchieren kann.
 
 
 

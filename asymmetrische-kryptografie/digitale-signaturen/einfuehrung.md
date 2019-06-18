@@ -8,8 +8,5 @@ Sie lösen das Problem von unehrlicher Teilnehmer im System. Wenn zwei Parteien 
 
 Wie bei konventionellen Unterschriften von Hand, soll auch bei digitalen Dokumenten nur der Absender in der Lage sein, eine gültige Signatur zu erstellen, was nur mit asymmetrischer Kryptografie möglich ist.
 
-Die Grundidee ist, dass der Absender den privaten Schlüssel verwendet und der Empfänger den dazugehörigen öffentlichen Schlüssel.  
-
-
-\[1\] Christof Paar, \[2\]Seite 297
+Die Grundidee ist, dass der Absender den privaten Schlüssel verwendet und der Empfänger den dazugehörigen öffentlichen Schlüssel.
 

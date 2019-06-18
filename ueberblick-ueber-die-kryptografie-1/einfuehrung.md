@@ -1,14 +1,14 @@
 # Genereller Überblick
 
-Die **Kryptografie** ist ein Teil der **Kryptologie** gemäss folgendem Bild:
+Die Kryptologie besteht aus zwei Teilen:
 
 ![&#xDC;berblick &#xFC;ber die Kryptologie](../.gitbook/assets/ueberblick_kryptologie.png)
-
-Die Kryptologie und besteht aus zwei Teilen:
 
 **Kryptografie:** Absicherung Verschlüsselung von Informationen
 
 **Kryptoanalyse:** Brechen von Verschlüsselungen
+
+Die **Kryptografie** ist somit ein Teil der **Kryptologie.**
 
 Grundsätzlich geht es immer um das Thema, wie man über eine unsichere Leitung eine Nachricht austauschen kann und sicherstellt, dass die geheimen Schlüssel von keinem Angreifen benutzt werden können.
 
@@ -16,7 +16,7 @@ In der modernen Kryptografie gibt es nicht sehr viele Verfahren welche auch in d
 
 **Hash Funktion:** Damit werden die eigentliche Nachricht verschlüsselt
 
-**Signaturen:** Damit wird die Nachricht signiert und identifiziert ob diese nicht manipuliert wurde und ob der Sender auch tatsächlich der korrekte Abender war.
+**Signaturen:** Damit wird die Nachricht signiert und identifiziert ob diese nicht manipuliert wurde und ob der Sender auch tatsächlich der korrekte Absender war.
 
 Bei der Signatur gibt es in der modernen Kryptografie zwei Hauptgruppen:
 
